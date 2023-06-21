@@ -1,8 +1,8 @@
 body {
-    background-color: rgb(230,230,250);
+    background-color: #8c8484;
 }
 #div1 {
-    background-color: green;
+    background-color: rgb(249, 255, 186);
     width: 800px;
     height: 100px;
     border-style: groove;
@@ -22,7 +22,7 @@ body {
     margin-left: 10px;
 }
 #div3 {
-    background-color: blue;
+    background-color: rgb(163, 143, 235);
     width: 700px;
     height: 100px;
     border-style: inset;
@@ -32,7 +32,7 @@ body {
     margin-left: 10px;
 }
 #div4 {
-    background-color: yellow;
+    background-color: rgb(252, 194, 243);
     width: 500px;
     height: 100px;
     border-style: ridge;
@@ -41,7 +41,26 @@ body {
     margin-right: 10px;
     margin-left: 10px;
 }
-
+#watermelon {
+    background-color: rgb(166, 227, 190);
+    font-family: Italics;
+    color: black;
+}
+#pineapple {
+    background-color: rgb(219, 151, 179);
+    font-family: Arial;
+    color: black;
+}
+#lemon {
+    background-color: pink;
+    font-family: cursive;
+    color: purple;
+}
+#strawberry {
+    background-color: rgb(143, 242, 239);
+    font-family: serif;
+    color: rgb(33, 94, 138);
+}
 
 
 
