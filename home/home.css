@@ -1,0 +1,110 @@
+.title {
+    text-align: center;
+    background-color: rgb(240,195,192);
+    color: rgb(255,255,255);
+    border-color: rgb(255,255,255);
+    border-style: solid;
+    width: 1920px;
+}
+
+#banner {
+    width: 1920px;
+}
+
+
+li {
+    display: inline-block;
+    font-size: xx-large;
+    font-family: sans-serif;
+    
+}
+
+ul {
+    text-align: center;
+    background-color: rgb(192,232,240);
+    border-style: solid;
+    border-color: rgb(240,195,192);
+    height: 45px;
+    padding: 0px;
+    margin: 0px;
+}
+
+#home {
+    float: left;
+    padding-left: 200px;
+}
+
+#products:hover {
+   background-color: rgb(192,232,240);
+   font-family: cursive;
+}
+
+body {
+    background-color: rgb(154,155,156);
+}
+
+#logo {
+    height: 400.328px;
+    float: right;
+    padding-right: 800px;
+padding-bottom: 100px;
+   
+}
+
+#subcribe { 
+    background-color: rgb(255,255,255);
+    color: rgb(154,155,156);
+}
+
+#popular {
+    background-color: rgb(255,255,255);
+    color: rgb(192,232,240);
+    border-style: solid;
+    border-color: rgb(154,155,156);
+    text-align: center;
+    width: 1920px;
+    font-size: large;
+}
+
+#leotard {
+    
+    height: 400.328px;
+    width: 652.766;
+}
+
+#Hawaiian {
+    background-color: rgb(192,232,240);
+    border-color: rgb(240,195,192);
+    border-style: solid;
+    text-align: center;
+    padding-top: 30px;
+}
+
+footer {
+    background-color: rgb(240,195,192);
+    color: rgb(154,155,156);
+    margin-top: 70px;
+    padding-bottom: 500px;
+    border-style: solid;
+    border-color: rgb(255,255,255);
+    font-family: cursive;
+}
+
+#submit:hover {
+    background-color: rgb(255,255,255);
+    font-family: fantasy;
+}
+
+#product {
+    float: right;
+   padding-right: 200px;
+}
+
+#about {
+    text-align: center;
+}
+
+.fimg {
+    
+    display: grid;
+}
